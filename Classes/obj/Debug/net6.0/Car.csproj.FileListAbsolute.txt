@@ -1,0 +1,15 @@
+C:\Users\kylie\repos\Classes-Exercise\Classes\bin\Debug\net6.0\Car.exe
+C:\Users\kylie\repos\Classes-Exercise\Classes\bin\Debug\net6.0\Car.deps.json
+C:\Users\kylie\repos\Classes-Exercise\Classes\bin\Debug\net6.0\Car.runtimeconfig.json
+C:\Users\kylie\repos\Classes-Exercise\Classes\bin\Debug\net6.0\Car.dll
+C:\Users\kylie\repos\Classes-Exercise\Classes\bin\Debug\net6.0\Car.pdb
+C:\Users\kylie\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kylie\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Car.AssemblyInfoInputs.cache
+C:\Users\kylie\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Car.AssemblyInfo.cs
+C:\Users\kylie\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Car.csproj.CoreCompileInputs.cache
+C:\Users\kylie\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Car.sourcelink.json
+C:\Users\kylie\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Car.dll
+C:\Users\kylie\repos\Classes-Exercise\Classes\obj\Debug\net6.0\refint\Car.dll
+C:\Users\kylie\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Car.pdb
+C:\Users\kylie\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Car.genruntimeconfig.cache
+C:\Users\kylie\repos\Classes-Exercise\Classes\obj\Debug\net6.0\ref\Car.dll

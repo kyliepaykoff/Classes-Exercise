@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kylie\\repos\\Classes-Exercise\\Classes\\Classes.csproj",
-      "projectName": "Classes",
-      "projectPath": "C:\\Users\\kylie\\repos\\Classes-Exercise\\Classes\\Classes.csproj",
+      "projectUniqueName": "C:\\Users\\kylie\\repos\\Classes-Exercise\\Classes\\Car.csproj",
+      "projectName": "Car",
+      "projectPath": "C:\\Users\\kylie\\repos\\Classes-Exercise\\Classes\\Car.csproj",
       "packagesPath": "C:\\Users\\kylie\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\kylie\\repos\\Classes-Exercise\\Classes\\obj\\",
       "projectStyle": "PackageReference",
